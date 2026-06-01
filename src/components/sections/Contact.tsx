@@ -87,7 +87,7 @@ const Contact = () => {
               <div className="flex-1">
                 <h4 className="font-bold text-[var(--dental-dark)] text-base mb-1">Our Address</h4>
                 <p className="text-gray-600 text-sm leading-relaxed mb-2">
-                  Dr. Sudhakar's Dental World, Nandyal, Andhra Pradesh, India.
+                  Dr. Sudhakar's Dental World, BUSTAND ROAD, GATE, Sanjeev Nagar, Nandyala, Andhra Pradesh 518501.
                 </p>
                 <a 
                   href="https://maps.app.goo.gl/1gtzy13NEG8YMbUt7"

@@ -93,8 +93,8 @@ const Footer = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-[var(--dental-sky)] flex-shrink-0 mt-0.5" />
                 <p className="text-gray-400 text-sm leading-relaxed">
-                  Opp. Municipal Office,<br />
-                  Nandyal, Andhra Pradesh
+                  BUSTAND ROAD, GATE, Sanjeev Nagar,<br />
+                  Nandyala, Andhra Pradesh 518501
                 </p>
               </div>
 
