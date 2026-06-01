@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Send, CheckCheck, MessageCircle } from 'lucide-react';
+import { X, Send, CheckCheck } from 'lucide-react';
 
 const FloatingWhatsApp = () => {
   const [isOpen, setIsOpen] = useState(false);
